@@ -1,0 +1,21 @@
+{
+  "projectileName" : "chopper",
+  "frames" : "chopper.png",
+  "animationCycle" : 0.2,
+  "frameNumber" : 4,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "physics" : "bouncy",
+  "piercing" : true,
+  "bounces" : 8,
+  "timeToLive" : 3,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "power" : 5.0,
+  "speed" : 150,
+  "damageKind" : "default"
+}

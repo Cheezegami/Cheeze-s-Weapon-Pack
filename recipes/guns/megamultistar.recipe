@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "raritaniumbolt", "count" : 5 }, { "item" : "multistar", "count" : 1 }
+  ],
+  "output" : { "item" : "megamultistar", "count" : 1 },
+  "groups" : [ "megacorpanvil", "weapons", "all", "mod" ]
+}

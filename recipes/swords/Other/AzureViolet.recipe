@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "refinedaegisalt", "count" : 5 }, { "item" : "refinedviolium", "count" : 5 }
+  ],
+  "output" : { "item" : "AzureViolet", "count" : 1 },
+  "groups" : [ "metalworkstation", "weapons", "all", "mod" ]
+}

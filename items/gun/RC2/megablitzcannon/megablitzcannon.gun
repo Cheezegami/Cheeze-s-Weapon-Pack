@@ -1,0 +1,31 @@
+{
+  "itemName" : "megablitzcannon",
+  "inventoryIcon" : "megablitzcannon.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "rare",
+  "description" : "Lazar",
+  "shortdescription" : "Mega Blitz Cannon",
+  "image" : "megablitzcannon.png",
+  "handPosition" : [-10, -5],
+  "firePosition" : [15, 0],
+  "recoilTime" : 0.1,
+  "level" : 5,
+  "projectileCount" : 12,
+  "inaccuracy" : 0.18,
+  "tooltipKind" : "gun",
+  "fireTime" : 0.58,
+  "twoHanded" : true,
+  "walkWhileFiring" : true,
+
+  "projectileType" : "megablitzcannon",
+  "projectile" : {
+    "speed" : 60,
+    "life" : 1.6,
+    "power" : 0.75
+  },
+  "muzzleEffect" : {
+    "fireSound" : [ { "file" : "/sfx/gun/plasma_shotgun4.wav" } ],
+    "animation" : "/animations/muzzleflash/electromuzzle/electromuzzle.animation"
+  }
+}

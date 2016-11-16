@@ -1,0 +1,21 @@
+{
+  "projectileName" : "ultraliquidnitrogengun",
+  "frames" : "ultraliquidnitrogengun.png",
+  "physics" : "arrow",
+  "animationCycle" : 1,
+  "damageKindImage" : "icon.png",
+  "frameNumber" : 1,
+  "power" : 5,
+  "speed" : 70,
+  "timeToLive" : 3.5,
+  "lightColor" : [255, 10, 255],
+  "damageKind" : "ice",
+  "damageType" : "ignoresdef",
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "statusEffects" : ["freeze", "frozenburning"]
+}

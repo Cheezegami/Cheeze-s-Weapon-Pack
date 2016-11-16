@@ -1,0 +1,28 @@
+{
+  "itemName" : "megamultistar",
+  "inventoryIcon" : "megamultistar.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "Cut, Cut, Cut!",
+  "shortdescription" : "Mega Multi-Star",
+  "image" : "megamultistar.png",
+  "handPosition" : [0, -2.5],
+  "firePosition" : [8, 0.5],
+  "recoilTime" : 0.2,
+  "level" : 5,
+  "tooltipKind" : "gun",
+  "fireTime" : 0.5,
+  "twoHanded" : false,
+  "walkWhileFiring" : true,
+
+  "projectileType" : "megamultistar",
+  "projectile" : {
+    "speed" : 150,
+    "life" : 3,
+    "power" : 3.95
+  },
+  "muzzleEffect" : {
+    "fireSound" : [ { "file" : "/sfx/gun/chopper.wav" } ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "ceruliumcompound", "count" : 6 }
+  ],
+  "output" : { "item" : "CeruliumKatana", "count" : 1 },
+  "groups" : [ "metalworkstation", "weapons", "all", "mod" ]
+}

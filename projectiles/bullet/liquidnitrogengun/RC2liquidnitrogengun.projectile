@@ -1,0 +1,21 @@
+{
+  "projectileName" : "RC2liquidnitrogengun",
+  "frames" : "liquidnitrogengun.png",
+  "physics" : "arrow",
+  "animationCycle" : 1,
+  "damageKindImage" : "icon.png",
+  "frameNumber" : 1,
+  "power" : 5,
+  "speed" : 55,
+  "timeToLive" : 2,
+  "lightColor" : [30, 180, 255],
+  "damageKind" : "ice",
+  "damageType" : "ignoresdef",
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "statusEffects" : ["freeze"]
+}

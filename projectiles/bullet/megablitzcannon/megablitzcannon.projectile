@@ -1,0 +1,23 @@
+{
+  "projectileName" : "megablitzcannon",
+  "frames" : "megablitzcannon.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "timeToLive" : 0.5,
+  "bounces" : 0,
+  "damageKindImage" : "icon.png",
+  "speed" : 120,
+  "orientationLocked" : false,
+  "damagePoly" : [ [0, 2], [80, 2], [80, -2], [0, -2] ],
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "damageKind" : "default",
+  "lightColor" : [80, 230, 235]
+}

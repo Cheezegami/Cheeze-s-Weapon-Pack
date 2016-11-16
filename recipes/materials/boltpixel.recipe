@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 5 }
+  ],
+  "output" : { "item" : "bolt", "count" : 2 },
+  "groups" : [ "megacorpanvil", "weapons", "all" ]
+}

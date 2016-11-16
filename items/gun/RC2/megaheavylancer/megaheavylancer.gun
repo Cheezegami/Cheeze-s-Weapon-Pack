@@ -1,0 +1,32 @@
+{
+  "itemName" : "megaheavylancer",
+  "inventoryIcon" : "megaheavylancer.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "Better not touch the barrel, it's hot!",
+  "shortdescription" : "Mega Heavy Lancer",
+  "image" : "megaheavylancer.png",
+  "handPosition" : [-11, 3],
+  "firePosition" : [14, 1],
+  "recoilTime" : 0.1,
+  "level" : 5,
+  "tooltipKind" : "gun",
+  "fireTime" : 0.11,
+  "projectileCount" : 2,
+  "inaccuracy" : 0.045,
+  "twoHanded" : true,
+  "walkWhileFiring" : true,
+
+  "projectileType" : "megaheavylancer",
+  "projectile" : {
+    "speed" : 125,
+    "life" : 3,
+    "power" : 0.8,
+    "lightColor" : [200, 120, 50]
+  },
+  "muzzleEffect" : {
+    "fireSound" : [ { "file" : "/sfx/gun/plasma_ar2.wav" } ],
+    "animation" : "/animations/muzzleflash/bulletmuzzle4/bulletmuzzle4.animation"
+  }
+}

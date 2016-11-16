@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 6 }
+  ],
+  "output" : { "item" : "DurasteelKatana", "count" : 1 },
+  "groups" : [ "metalworkstation", "weapons", "all", "mod" ]
+}

@@ -1,0 +1,19 @@
+{
+  "projectileName" : "chargedazurearrow",
+  "physics" : "arrow",
+  "frames" : "chargedazurearrow.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "emitters" : [ "daggerblue" ],
+  "damageKindImage" : "icon.png",
+  "timeToLive" : 30,
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "power" : 20,
+  "damageKind" : "bow"
+}

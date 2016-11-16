@@ -1,0 +1,32 @@
+{
+  "objectName" : "megacorpanvil",
+  "category" : "crafting",
+  "rarity" : "uncommon",
+  "description" : "This Megacorp Anvil allows me to forge metal bolts and weapons.",
+  "shortdescription" : "^red;Megacorp Anvil^white;",
+  "race" : "generic",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/megacorpanvil.config",
+    "filter" : [ "megacorpanvil" ]
+  },
+  "printable" : false,
+  "price" : 100,
+
+  "inventoryIcon" : "megacorpanvilicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "megacorpanvil.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+
+}

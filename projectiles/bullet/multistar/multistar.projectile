@@ -1,0 +1,31 @@
+{
+  "projectileName" : "multistar",
+  "frames" : "multistar.png",
+  "animationCycle" : 0.2,
+  "frameNumber" : 4,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "physics" : "bouncy",
+  "piercing" : false,
+  "bounces" : 0,
+  "timeToLive" : 1.5,
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "chopper",
+      "fuzzAngle" : 40,
+      "angleAdjust" : 0,
+      "inheritDamageFactor" : 0.75
+    },
+    {
+      "action" : "projectile",
+      "type" : "chopper",
+      "fuzzAngle" : 40,
+      "angleAdjust" : 0,
+      "inheritDamageFactor" : 0.75
+    }
+  ],
+  "power" : 5.0,
+  "speed" : 150,
+  "damageKind" : "default"
+}

@@ -1,0 +1,30 @@
+{
+  "itemName" : "lancer",
+  "inventoryIcon" : "lancer.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "common",
+  "description" : "Better not touch the barrel, it's hot!",
+  "shortdescription" : "Lancer",
+  "image" : "lancer.png",
+  "handPosition" : [-4, -2],
+  "firePosition" : [18, 3],
+  "recoilTime" : 0.1,
+  "level" : 1,
+  "tooltipKind" : "gun",
+  "fireTime" : 0.25,
+  "twoHanded" : false,
+  "walkWhileFiring" : false,
+
+  "projectileType" : "lancer",
+  "projectile" : {
+    "speed" : 125,
+    "life" : 3,
+    "power" : 1.5,
+    "lightColor" : [200, 120, 0]
+  },
+  "muzzleEffect" : {
+    "fireSound" : [ { "file" : "/sfx/gun/plasma_ar2.wav" } ],
+    "animation" : "/animations/muzzleflash/bulletmuzzle4/bulletmuzzle4.animation"
+  }
+}

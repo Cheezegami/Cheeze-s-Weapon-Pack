@@ -1,0 +1,28 @@
+{
+  "itemName" : "multistar",
+  "inventoryIcon" : "multistar.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "description" : "Cut, Cut, Cut!",
+  "shortdescription" : "Multi-Star",
+  "image" : "multistar.png",
+  "handPosition" : [0, -2],
+  "firePosition" : [8, 1],
+  "recoilTime" : 0.2,
+  "level" : 3,
+  "tooltipKind" : "gun",
+  "fireTime" : 0.525,
+  "twoHanded" : false,
+  "walkWhileFiring" : true,
+
+  "projectileType" : "multistar",
+  "projectile" : {
+    "speed" : 150,
+    "life" : 3,
+    "power" : 4.0
+  },
+  "muzzleEffect" : {
+    "fireSound" : [ { "file" : "/sfx/gun/chopper.wav" } ]
+  }
+}

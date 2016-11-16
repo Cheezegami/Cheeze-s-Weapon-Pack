@@ -1,0 +1,30 @@
+{
+  "projectileName" : "gasswoosh",
+  "physics" : "grenadezbomb",
+  "bounces" : 0,
+  "timeToLive" : 0.025,
+  "frames" : "gasswoosh.png",
+  "animationCycle" : 0.4,
+  "frameNumber" : 8,
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "cloudcluster",
+      "fuzzAngle" : 40,
+      "angleAdjust" : 0,
+      "inheritDamageFactor" : 0.2
+    },
+    {
+      "action" : "projectile",
+      "type" : "flyswarm",
+      "fuzzAngle" : 40,
+      "angleAdjust" : 0,
+      "inheritDamageFactor" : 0.2
+    }
+  ],
+  "power" : 10,
+  "damageType" : "NoDamage",
+  "damageKind" : "default",
+  "damagePoly" : [ [-9, 0], [-6, -6], [0, -9], [6, -6], [9, 0], [6, 6], [0, 9], [-6, 6] ],
+  "emitters" : [ "sparks" ]
+}

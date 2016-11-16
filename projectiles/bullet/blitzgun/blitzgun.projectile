@@ -1,0 +1,23 @@
+{
+  "projectileName" : "blitzgun",
+  "frames" : "blitzgun.png",
+  "animationCycle" : 0.3,
+  "frameNumber" : 4,
+  "timeToLive" : 0.3,
+  "bounces" : 0,
+  "damageKindImage" : "icon.png",
+  "speed" : 110,
+  "orientationLocked" : false,
+  "damagePoly" : [ [0, 2], [80, 2], [80, -2], [0, -2] ],
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "damageKind" : "default",
+  "lightColor" : [240, 180, 50]
+}

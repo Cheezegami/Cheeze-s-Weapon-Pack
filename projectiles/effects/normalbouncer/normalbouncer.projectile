@@ -1,0 +1,20 @@
+{
+  "projectileName" : "normalbouncer",
+  "frames" : "normalbouncer.png",
+  "physics" : "bouncer",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "power" : 50,
+  "piercing" : true,
+  "speed" : 8,
+  "timeToLive" : 1.75,
+  "bounces" : 4,
+  "actionOnReap" :  [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/regularexplosion/regularexplosion.config"
+    }
+  ],
+  "damageType" : "NoDamage",
+  "damageKind" : "default"
+}

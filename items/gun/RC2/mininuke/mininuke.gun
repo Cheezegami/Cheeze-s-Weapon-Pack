@@ -1,0 +1,30 @@
+{
+  "itemName" : "mininuke",
+  "inventoryIcon" : "mininuke.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "uncommon",
+  "description" : "Boom.",
+  "shortdescription" : "Mini-Nuke",
+  "image" : "mininuke.png",
+  "handPosition" : [-2, -5],
+  "firePosition" : [15, 0],
+  "recoilTime" : 0.1,
+  "level" : 3,
+  "tooltipKind" : "gun",
+  "fireTime" : 2.0,
+  "twoHanded" : true,
+  "walkWhileFiring" : true,
+
+  "projectileType" : "mininuke",
+  "projectile" : {
+    "speed" : 35,
+    "life" : 2,
+    "power" : 12.5,
+    "color" : [255, 10, 10]
+  },
+  "muzzleEffect" : {
+    "fireSound" : [ { "file" : "/sfx/gun/gravitybomb.wav" } ],
+    "animation" : "/animations/muzzleflash/plasmamuzzle4yellow/plasmamuzzle4yellow.animation"
+  }
+}

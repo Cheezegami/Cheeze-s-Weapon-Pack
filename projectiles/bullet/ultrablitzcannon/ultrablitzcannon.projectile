@@ -1,0 +1,24 @@
+{
+  "projectileName" : "ultrablitzcannon",
+  "frames" : "ultrablitzcannon.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "timeToLive" : 0.5,
+  "bounces" : 0,
+  "damageKindImage" : "icon.png",
+  "speed" : 120,
+  "orientationLocked" : false,
+  "damagePoly" : [ [0, 2], [80, 2], [80, -2], [0, -2] ],
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "damageKind" : "default",
+  "lightColor" : [240, 80, 80],
+  "statusEffects" : ["burning"]
+}

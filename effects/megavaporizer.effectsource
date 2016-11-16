@@ -1,0 +1,24 @@
+{
+  "kind" : "megavaporizershot",
+  "location" : "mouth",
+  "definition" : {
+    "duration" : 0.1,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "megavaporizershot" ], [ "megavaporizershot" ], [ "megavaporizershot" ], [ "megavaporizershot" ]
+      ],
+      "sounds" : [ [ ] ]
+    },
+    "particles" : [
+      [ "megavaporizershot" ], [ "megavaporizershot" ], [ "megavaporizershot" ], [ "megavaporizershot" ]
+    ],
+    "sounds" : [ [ ] ],
+    "stop" : {
+      "particles" : [
+        [ "megavaporizershot" ], [ "megavaporizershot" ], [ "megavaporizershot" ], [ "megavaporizershot" ]
+      ],
+      "sounds" : [ [ ] ]
+    }
+  }
+}

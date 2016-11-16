@@ -1,0 +1,31 @@
+{
+  "itemName" : "blitzcannon",
+  "inventoryIcon" : "blitzcannon.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "uncommon",
+  "description" : "Lazar",
+  "shortdescription" : "Blitz Cannon",
+  "image" : "blitzcannon.png",
+  "handPosition" : [-10, -5],
+  "firePosition" : [15, 0],
+  "recoilTime" : 0.1,
+  "level" : 3,
+  "projectileCount" : 10,
+  "inaccuracy" : 0.20,
+  "tooltipKind" : "gun",
+  "fireTime" : 0.58,
+  "twoHanded" : true,
+  "walkWhileFiring" : true,
+
+  "projectileType" : "blitzcannon",
+  "projectile" : {
+    "speed" : 50,
+    "life" : 1.6,
+    "power" : 0.75
+  },
+  "muzzleEffect" : {
+    "fireSound" : [ { "file" : "/sfx/gun/plasma_shotgun4.wav" } ],
+    "animation" : "/animations/muzzleflash/electromuzzle/electromuzzle.animation"
+  }
+}

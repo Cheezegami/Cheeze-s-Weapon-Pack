@@ -1,0 +1,37 @@
+{
+  "projectileName" : "cloudcluster",
+  "frames" : "cloudcluster.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "physics" : "grenade",
+  "pointLight" : false,
+  "timeToLive" : 0.1,
+  "bounces" : 1,
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "gas3",
+	  "fuzzAngle" : 360,
+      "angleAdjust" : 180,
+      "inheritDamageFactor" : 0.5,
+      "angle" : 5
+    },
+    {
+      "action" : "projectile",
+      "type" : "flyswarm",
+	  "fuzzAngle" : 360,
+      "inheritDamageFactor" : 1,
+      "angle" : 5
+    },
+    {
+      "action" : "sound",
+      "options" : [ "/sfx/projectiles/goocluster_pop.wav" ]
+    }
+  ],
+  "power" : 5.0,
+  "speed" : 12,
+  "damageType" : "NoDamage",
+  "damageKind" : "acid",
+  "lightColor" : [75, 150, 75]
+}

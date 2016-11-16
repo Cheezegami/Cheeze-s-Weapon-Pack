@@ -1,0 +1,21 @@
+{
+  "projectileName" : "megaliquidnitrogengun",
+  "frames" : "megaliquidnitrogengun.png",
+  "physics" : "arrow",
+  "animationCycle" : 1,
+  "damageKindImage" : "icon.png",
+  "frameNumber" : 1,
+  "power" : 5,
+  "speed" : 70,
+  "timeToLive" : 3.5,
+  "lightColor" : [140, 255, 20],
+  "damageKind" : "ice",
+  "damageType" : "ignoresdef",
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "statusEffects" : ["freeze", "damagefreeze"]
+}

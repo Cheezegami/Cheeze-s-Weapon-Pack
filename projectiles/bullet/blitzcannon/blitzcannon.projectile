@@ -1,0 +1,23 @@
+{
+  "projectileName" : "blitzcannon",
+  "frames" : "blitzcannon.png",
+  "animationCycle" : 0.4,
+  "frameNumber" : 4,
+  "timeToLive" : 0.4,
+  "bounces" : 0,
+  "damageKindImage" : "icon.png",
+  "speed" : 110,
+  "orientationLocked" : false,
+  "damagePoly" : [ [0, 2], [80, 2], [80, -2], [0, -2] ],
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "damageKind" : "default",
+  "lightColor" : [80, 200, 240]
+}

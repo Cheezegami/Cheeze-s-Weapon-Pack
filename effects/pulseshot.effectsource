@@ -1,0 +1,24 @@
+{
+  "kind" : "pulseshot",
+  "location" : "mouth",
+  "definition" : {
+    "duration" : 0.1,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "pulseshot" ], [ "pulseshot" ], [ "pulseshot" ], [ "pulseshot" ]
+      ],
+      "sounds" : [ [ ] ]
+    },
+    "particles" : [
+      [ "pulseshot" ], [ "pulseshot" ], [ "pulseshot" ], [ "pulseshot" ]
+    ],
+    "sounds" : [ [ ] ],
+    "stop" : {
+      "particles" : [
+        [ "pulseshot" ], [ "pulseshot" ], [ "pulseshot" ], [ "pulseshot" ]
+      ],
+      "sounds" : [ [ ] ]
+    }
+  }
+}

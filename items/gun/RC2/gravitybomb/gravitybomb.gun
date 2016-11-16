@@ -1,0 +1,30 @@
+{
+  "itemName" : "gravitybomb",
+  "inventoryIcon" : "gravitybomb.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "common",
+  "description" : "Boom.",
+  "shortdescription" : "Gravity Bomb",
+  "image" : "gravitybomb.png",
+  "handPosition" : [-9, -5],
+  "firePosition" : [10, 0],
+  "recoilTime" : 0.1,
+  "level" : 1,
+  "tooltipKind" : "gun",
+  "fireTime" : 2.0,
+  "twoHanded" : true,
+  "walkWhileFiring" : true,
+
+  "projectileType" : "gravitybomb2",
+  "projectile" : {
+    "speed" : 32,
+    "life" : 2,
+    "power" : 12.5,
+    "color" : [255, 10, 10]
+  },
+  "muzzleEffect" : {
+    "fireSound" : [ { "file" : "/sfx/gun/gravitybomb.wav" } ],
+    "animation" : "/animations/muzzleflash/plasmamuzzle4yellow/plasmamuzzle4yellow.animation"
+  }
+}

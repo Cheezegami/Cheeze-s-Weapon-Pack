@@ -1,0 +1,27 @@
+{
+  "projectileName" : "ultravaporizer",
+  "frames" : "ultravaporizer.png",
+  "animationCycle" : 1.5,
+  "frameNumber" : 4,
+  "timeToLive" : 1.5,
+  "bounces" : 0,
+  "damageKindImage" : "icon.png",
+  "speed" : 125,
+  "emitters" : [ "ultravaporizershot" ],
+  "orientationLocked" : false,
+  "damagePoly" : [ [0, 2], [80, 2], [80, -2], [0, -2] ],
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/nebulaexplosionex/nebulaexplosionex.config"
+    }
+  ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "damageKind" : "default",
+  "lightColor" : [220, 54, 250],
+  "statusEffects" : [
+  "burning", "weakpoison"
+  ]
+}

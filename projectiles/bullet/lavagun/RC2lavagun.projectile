@@ -1,0 +1,21 @@
+{
+  "projectileName" : "RC2lavagun",
+  "frames" : "lavagun.png",
+  "physics" : "arrow",
+  "animationCycle" : 1,
+  "damageKindImage" : "icon.png",
+  "frameNumber" : 1,
+  "power" : 5,
+  "speed" : 50,
+  "timeToLive" : 2,
+  "lightColor" : [255, 100, 0],
+  "damageKind" : "fire",
+  "damageType" : "ignoresdef",
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "statusEffects" : ["burning"]
+}

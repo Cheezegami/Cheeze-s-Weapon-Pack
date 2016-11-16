@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "goldbar", "count" : 7 }
+  ],
+  "output" : { "item" : "GoldNaginata", "count" : 1 },
+  "groups" : [ "anvil", "weapons", "all", "mod" ]
+}

@@ -1,0 +1,53 @@
+{
+  "projectileName" : "clustercloud",
+  "frames" : "clustercloud.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 2,
+  "damageKindImage" : "icon.png",
+  "physics" : "grenade",
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "cloudcluster",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.25,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "cloudcluster",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.25,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "cloudcluster",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.25,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "cloudcluster",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.25,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "cloudcluster",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.25,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "sound",
+      "options" : [ "/sfx/projectiles/goocluster_pop.wav" ]
+    }
+  ],
+  "power" : 5.0,
+  "damageType" : "NoDamage",
+  "damageKind" : "acid"
+}

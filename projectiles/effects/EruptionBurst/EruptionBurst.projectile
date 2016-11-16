@@ -1,0 +1,100 @@
+{
+  "projectileName" : "EruptionBurst",
+  "frames" : "EruptionBurst.png",
+  "physics" : "gas",
+  "animationCycle" : 0.125,
+  "frameNumber" : 4,
+  "power" : 50,
+  "piercing" : true,
+  "speed" : 0,
+  "timeToLive" : 0,
+  "bounces" : 4,
+  "actionOnReap" :  [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/regularexplosion/regularexplosion.config"
+    },
+    {
+      "action" : "projectile",
+      "type" : "RC2lavagun",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.1,
+      "angleAdjust" : 35,
+	  "speed" : 3
+    },
+    {
+      "action" : "projectile",
+      "type" : "RC2lavagun",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.1,
+      "angleAdjust" : 35,
+	  "speed" : 3
+    },
+    {
+      "action" : "projectile",
+      "type" : "RC2lavagun",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.1,
+      "angleAdjust" : 35,
+	  "speed" : 3
+    },
+    {
+      "action" : "projectile",
+      "type" : "RC2lavagun",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.1,
+      "angleAdjust" : 35,
+	  "speed" : 3
+    },
+    {
+      "action" : "projectile",
+      "type" : "RC2lavagun",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.1,
+      "angleAdjust" : 35,
+	  "speed" : 3
+    },
+    {
+      "action" : "projectile",
+      "type" : "RC2lavagun",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.1,
+      "angleAdjust" : 35,
+	  "speed" : 3
+    },
+    {
+      "action" : "projectile",
+      "type" : "RC2lavagun",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.1,
+      "angleAdjust" : 35,
+	  "speed" : 3
+    },
+    {
+      "action" : "projectile",
+      "type" : "RC2lavagun",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.1,
+      "angleAdjust" : 35,
+	  "speed" : 3
+    },
+    {
+      "action" : "projectile",
+      "type" : "RC2lavagun",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.1,
+      "angleAdjust" : 35,
+	  "speed" : 3
+    },
+    {
+      "action" : "projectile",
+      "type" : "RC2lavagun",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.1,
+      "angleAdjust" : 35,
+	  "speed" : 3
+    }
+  ],
+  "damageType" : "NoDamage",
+  "damageKind" : "default"
+}

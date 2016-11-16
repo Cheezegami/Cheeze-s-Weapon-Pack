@@ -1,0 +1,29 @@
+{
+  "itemName" : "ultraliquidnitrogengun",
+  "inventoryIcon" : "ultraliquidnitrogengun.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "legendary",
+  "description" : "Better not touch the barrel, it's cold!",
+  "shortdescription" : "Ultra Liquid Plasma Gun",
+  "image" : "ultraliquidnitrogengun.png",
+  "handPosition" : [-4, 2],
+  "firePosition" : [13, 0.5],
+  "recoilTime" : 0.1,
+  "level" : 6,
+  "tooltipKind" : "gun",
+  "fireTime" : 0.05,
+  "twoHanded" : true,
+  "walkWhileFiring" : false,
+
+  "projectileType" : "ultraliquidnitrogengun",
+  "projectile" : {
+    "speed" : 30,
+    "life" : 3,
+    "power" : 0.3,
+    "lightColor" : [200, 120, 0]
+  },
+  "muzzleEffect" : {
+    "fireSound" : [ { "file" : "/sfx/projectiles/goocluster_pop.wav" } ]
+  }
+}

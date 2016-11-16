@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "ceruliumcompound", "count" : 2 }, { "item" : "imperviumcompound", "count" : 2 }, { "item" : "feroziumcompound", "count" : 2 }
+  ],
+  "output" : { "item" : "ZweiSaphir", "count" : 1 },
+  "groups" : [ "metalworkstation", "weapons", "all", "mod" ]
+}

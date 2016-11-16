@@ -1,0 +1,398 @@
+[
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "CopperKatana" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "IronKatana" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "SilverKatana" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "GoldKatana" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "PlatinumKatana" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "SteelKatana" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "TitaniumKatana" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "DurasteelKatana" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "AegisaltKatana" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "FeroziumKatana" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "RubiumKatana" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "CeruliumKatana" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "VioliumKatana" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "ImperviumKatana" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "CopperTanto" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "IronTanto" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "SilverTanto" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "GoldTanto" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "PlatinumTanto" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "SteelTanto" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "TitaniumTanto" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "DurasteelTanto" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "AegisaltTanto" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "FeroziumTanto" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "RubiumTanto" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "CeruliumTanto" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "VioliumTanto" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "ImperviumTanto" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "CopperNaginata" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "IronNaginata" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "SilverNaginata" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "GoldNaginata" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "PlatinumNaginata" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "SteelNaginata" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "TitaniumNaginata" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "DurasteelNaginata" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "AegisaltNaginata" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "FeroziumNaginata" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "RubiumNaginata" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "CeruliumNaginata" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "VioliumNaginata" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "ImperviumNaginata" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "megacorpanvil" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "bolt" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "lancer" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "heavylancer" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "megaheavylancer" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "ultraheavylancer" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "gravitybomb" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "mininuke" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "megamininuke" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "ultramininuke" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "chopper" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "multistar" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "megamultistar" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "ultramultistar" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "blitzgun" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "blitzcannon" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "megablitzcannon" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "ultrablitzcannon" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "RC2lavagun" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "RC2liquidnitrogengun" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "megaliquidnitrogengun" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "ultraliquidnitrogengun" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "bouncer" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "heavybouncer" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "megaheavybouncer" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "ultraheavybouncer" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "pulserifle" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "vaporizergun" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "megavaporizer" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "ultravaporizer" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "titaniumbolt" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "raritaniumbolt" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "nanotechbolt" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "AzureViolet" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "ZweiSaphir" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "Heartlock" }
+		},
+	{
+		"op": "add", 
+		"path": "/defaultBlueprints/tier1/-", 
+		"value" : { "item" : "EruptionSword" }
+		}
+	]
+

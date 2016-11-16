@@ -1,0 +1,31 @@
+{
+  "itemName" : "blitzgun",
+  "inventoryIcon" : "blitzgun.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "common",
+  "description" : "Lazar",
+  "shortdescription" : "Blitz Gun",
+  "image" : "blitzgun.png",
+  "handPosition" : [-5, -5],
+  "firePosition" : [13, 0],
+  "recoilTime" : 0.1,
+  "level" : 1,
+  "projectileCount" : 8,
+  "inaccuracy" : 0.22,
+  "tooltipKind" : "gun",
+  "fireTime" : 0.6,
+  "twoHanded" : true,
+  "walkWhileFiring" : true,
+
+  "projectileType" : "blitzgun",
+  "projectile" : {
+    "speed" : 50,
+    "life" : 1.6,
+    "power" : 0.75
+  },
+  "muzzleEffect" : {
+    "fireSound" : [ { "file" : "/sfx/gun/plasma_shotgun4.wav" } ],
+    "animation" : "/animations/muzzleflash/plasmamuzzle4yellow/plasmamuzzle4yellow.animation"
+  }
+}

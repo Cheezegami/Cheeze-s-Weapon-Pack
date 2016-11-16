@@ -1,0 +1,17 @@
+{
+  "projectileName" : "hugeexplosion",
+  "frames" : "hugeexplosion.png",
+  "physics" : "gas",
+  "animationCycle" : 1.4,
+  "frameNumber" : 6,
+  "power" : 20,
+  "speed" : 0,
+  "timeToLive" : 1.4,
+  "bounces" : 6,
+  "damagePoly" : [ [-18, 0], [-12, -12], [0, -18], [12, -12], [18, 0], [12, 12], [0, 18], [-12, 12] ],
+  "piercing" : true,
+  "universalDamage" : true,
+  "damageType" : "ignoresdef",
+  "damageKind" : "default",
+  "lightColor" : [180, 180, 255]
+}

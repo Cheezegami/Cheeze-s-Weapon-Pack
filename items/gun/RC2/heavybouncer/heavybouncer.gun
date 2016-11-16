@@ -1,0 +1,30 @@
+{
+  "itemName" : "heavybouncer",
+  "inventoryIcon" : "heavybouncer.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "uncommon",
+  "description" : "Boom.",
+  "shortdescription" : "Heavy Bouncer",
+  "image" : "heavybouncer.png",
+  "handPosition" : [-10, -5],
+  "firePosition" : [15.5, 0],
+  "recoilTime" : 0.1,
+  "level" : 3,
+  "tooltipKind" : "gun",
+  "fireTime" : 2.0,
+  "twoHanded" : true,
+  "walkWhileFiring" : true,
+
+  "projectileType" : "heavybouncer",
+  "projectile" : {
+    "speed" : 25,
+    "life" : 2,
+    "power" : 10,
+    "color" : [255, 10, 10]
+  },
+  "muzzleEffect" : {
+    "fireSound" : [ { "file" : "/sfx/gun/grenade1.wav" } ],
+    "animation" : "/animations/muzzleflash/plasmamuzzle4yellow/plasmamuzzle4yellow.animation"
+  }
+}

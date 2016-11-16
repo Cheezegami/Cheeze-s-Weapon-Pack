@@ -1,0 +1,30 @@
+{
+  "itemName" : "bouncer",
+  "inventoryIcon" : "bouncer.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "common",
+  "description" : "Boom.",
+  "shortdescription" : "Bouncer",
+  "image" : "bouncer.png",
+  "handPosition" : [-8, -6],
+  "firePosition" : [15, 0],
+  "recoilTime" : 0.1,
+  "level" : 1,
+  "tooltipKind" : "gun",
+  "fireTime" : 2.0,
+  "twoHanded" : true,
+  "walkWhileFiring" : true,
+
+  "projectileType" : "bouncer",
+  "projectile" : {
+    "speed" : 25,
+    "life" : 2,
+    "power" : 10,
+    "color" : [255, 10, 10]
+  },
+  "muzzleEffect" : {
+    "fireSound" : [ { "file" : "/sfx/gun/grenade1.wav" } ],
+    "animation" : "/animations/muzzleflash/plasmamuzzle4yellow/plasmamuzzle4yellow.animation"
+  }
+}

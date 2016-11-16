@@ -1,0 +1,22 @@
+{
+  "kind" : "vaporizershot",
+  "definition" : {
+    "type" : "animated",
+    "looping" : true,
+    "animation" : "/animations/vaporizershot/vaporizershot.animation",
+    "position" : [2, 0],
+    "finalVelocity" : [0, 0],
+    "approach" : [50, 50],
+    "destructionAction" : "shrink",
+    "destructionTime" : 0.425,
+    "fade" : 1,
+    "light" : [240, 64, 15],
+    "size" : 0.75,
+    "layer" : "middle",
+    "timeToLive" : 0.65,
+    "variance" : {
+      "finalVelocity" : [1.5, 1.5],
+      "position" : [1.5, 1.5]
+    }
+  }
+}

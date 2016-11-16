@@ -1,0 +1,18 @@
+{
+  "projectileName" : "ColdSpearSwoosh",
+  "frames" : "ColdSpearSwoosh.png",
+  "animationCycle" : 0.07,
+  "frameNumber" : 3,
+  "damageKindImage" : "/interface/statuses/frozen.png",
+  "speed" : 0,
+  "orientationLocked" : true,
+  "damagePoly" : [ [-35, 5.5], [22.5, 5.5], [22.5, -5.5], [-35, -5.5] ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "damageKind" : "spear",
+  "lightColor" : [50, 50, 98],
+  "statusEffects" : [
+    "freeze"
+  ]
+}

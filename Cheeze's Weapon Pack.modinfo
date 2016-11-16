@@ -1,0 +1,14 @@
+{
+  "name" : "Cheeze's Weapons Pack",
+  "version" : "Beta v. Pleased Giraffe",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata" : {
+	"displayName" : "Cheeze's Weapon Pack",
+    "author" : "Cheezemaniac",
+    "description" : "Adds in various of weapons to play with.",
+    "support_url" : "http://community.playstarbound.com/index.php?resources/cheezes-weapon-pack.2651/",
+    "version" : "v2.X",
+	"credits" : "A few projectiles were made by tforoforp, the developers for making such an easy moddable game, various modders for making tutorials and stuff for making the progress easy."
+	}
+}

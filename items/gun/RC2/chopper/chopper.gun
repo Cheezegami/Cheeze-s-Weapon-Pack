@@ -1,0 +1,28 @@
+{
+  "itemName" : "chopper",
+  "inventoryIcon" : "chopper.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "common",
+  "description" : "Cut, Cut, Cut!",
+  "shortdescription" : "Chopper",
+  "image" : "chopper.png",
+  "handPosition" : [0, -2],
+  "firePosition" : [8, 1],
+  "recoilTime" : 0.2,
+  "level" : 1,
+  "tooltipKind" : "gun",
+  "fireTime" : 0.55,
+  "twoHanded" : false,
+  "walkWhileFiring" : false,
+
+  "projectileType" : "chopper",
+  "projectile" : {
+    "speed" : 150,
+    "life" : 3,
+    "power" : 4.05
+  },
+  "muzzleEffect" : {
+    "fireSound" : [ { "file" : "/sfx/gun/chopper.wav" } ]
+  }
+}

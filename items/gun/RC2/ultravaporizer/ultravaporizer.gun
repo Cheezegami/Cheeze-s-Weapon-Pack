@@ -1,0 +1,30 @@
+{
+  "itemName" : "ultravaporizer",
+  "inventoryIcon" : "ultravaporizer.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "legendary",
+  "description" : "Boom, Headshot!",
+  "shortdescription" : "ultra Vaporizer",
+  "image" : "ultravaporizer.png",
+  "handPosition" : [-15, -2.5],
+  "firePosition" : [24, 0],
+  "recoilTime" : 0.1,
+  "level" : 6,
+  "tooltipKind" : "gun",
+  "fireTime" : 1.7,
+  "twoHanded" : true,
+  "walkWhileFiring" : true,
+
+  "projectileType" : "ultravaporizer",
+  "projectile" : {
+    "speed" : 200,
+    "life" : 3,
+    "power" : 12.5,
+    "lightColor" : [100, 100, 200]
+  },
+  "muzzleEffect" : {
+    "fireSound" : [ { "file" : "/sfx/gun/plasma_sniper4.wav" } ],
+    "animation" : "/animations/muzzleflash/plasmamuzzle4/plasmamuzzle4.animation"
+  }
+}

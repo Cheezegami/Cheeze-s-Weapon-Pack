@@ -1,0 +1,25 @@
+{
+  "projectileName" : "megaheavylancer",
+  "frames" : "megaheavylancer.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    },
+    {
+      "action" : "projectile",
+      "type" : "electricexplosion",
+      "fuzzAngle" : 40,
+      "angleAdjust" : 0,
+      "inheritDamageFactor" : 0.1
+    }
+  ],
+  "power" : 5.0,
+  "speed" : 160,
+  "damageKind" : "default",
+  "lightColor" : [200, 120, 0]
+}

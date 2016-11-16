@@ -1,0 +1,32 @@
+{
+  "kind" : "ice",
+  "effects" : {
+    "organic" : {
+      "hit" : {
+        "sounds" : [ "/sfx/objects/capsule_break1.wav", "/sfx/objects/capsule_break2.wav" ],
+        "particles" : [
+        ]
+      },
+      "kill" : {
+        "sounds" : [ "/sfx/objects/capsule_break1.wav" ],
+        "particles" : [
+        ]
+      }
+    },
+    "robotic" : {
+      "hit" : {
+        "sounds" : [ "/sfx/objects/capsule_break1.wav", "/sfx/objects/capsule_break2.wav" ],
+        "particles" : [
+        ]
+      },
+      "kill" : {
+        "sounds" : [ "/sfx/objects/capsule_break1.wav" ],
+        "particles" : [
+        ]
+      }
+    }
+  }
+}
+
+
+

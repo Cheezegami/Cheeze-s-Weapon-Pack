@@ -1,0 +1,24 @@
+{
+  "kind" : "vaporizershot",
+  "location" : "mouth",
+  "definition" : {
+    "duration" : 0.1,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "vaporizershot" ], [ "vaporizershot" ], [ "vaporizershot" ], [ "vaporizershot" ]
+      ],
+      "sounds" : [ [ ] ]
+    },
+    "particles" : [
+      [ "vaporizershot" ], [ "vaporizershot" ], [ "vaporizershot" ], [ "vaporizershot" ]
+    ],
+    "sounds" : [ [ ] ],
+    "stop" : {
+      "particles" : [
+        [ "vaporizershot" ], [ "vaporizershot" ], [ "vaporizershot" ], [ "vaporizershot" ]
+      ],
+      "sounds" : [ [ ] ]
+    }
+  }
+}

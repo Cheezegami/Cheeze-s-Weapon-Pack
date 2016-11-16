@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "silverbar", "count" : 1 }
+  ],
+  "output" : { "item" : "bolt", "count" : 25 },
+  "groups" : [ "megacorpanvil", "weapons", "all" ]
+}

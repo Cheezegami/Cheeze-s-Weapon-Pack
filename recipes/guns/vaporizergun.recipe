@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "titaniumbolt", "count" : 6 }, { "item" : "pulserifle", "count" : 1 }
+  ],
+  "output" : { "item" : "vaporizergun", "count" : 1 },
+  "groups" : [ "megacorpanvil", "weapons", "all", "mod" ]
+}

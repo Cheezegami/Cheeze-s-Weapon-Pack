@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "nanotechbolt", "count" : 6 }, { "item" : "megaliquidnitrogengun", "count" : 1 }
+  ],
+  "output" : { "item" : "ultraliquidnitrogengun", "count" : 1 },
+  "groups" : [ "megacorpanvil", "weapons", "all", "mod" ]
+}

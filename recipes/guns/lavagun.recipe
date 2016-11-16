@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "bolt", "count" : 300 }
+  ],
+  "output" : { "item" : "RC2lavagun", "count" : 1 },
+  "groups" : [ "megacorpanvil", "weapons", "all", "mod" ]
+}

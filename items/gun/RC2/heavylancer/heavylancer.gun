@@ -1,0 +1,30 @@
+{
+  "itemName" : "heavylancer",
+  "inventoryIcon" : "heavylancer.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "uncommon",
+  "description" : "Better not touch the barrel, it's hot!",
+  "shortdescription" : "Heavy Lancer",
+  "image" : "heavylancer.png",
+  "handPosition" : [-11, 3],
+  "firePosition" : [14, 1],
+  "recoilTime" : 0.1,
+  "level" : 3,
+  "tooltipKind" : "gun",
+  "fireTime" : 0.115,
+  "twoHanded" : true,
+  "walkWhileFiring" : true,
+
+  "projectileType" : "heavylancer",
+  "projectile" : {
+    "speed" : 125,
+    "life" : 3,
+    "power" : 1.2,
+    "lightColor" : [200, 120, 0]
+  },
+  "muzzleEffect" : {
+    "fireSound" : [ { "file" : "/sfx/gun/plasma_ar2.wav" } ],
+    "animation" : "/animations/muzzleflash/bulletmuzzle4/bulletmuzzle4.animation"
+  }
+}

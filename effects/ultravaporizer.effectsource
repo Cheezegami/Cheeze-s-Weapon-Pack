@@ -1,0 +1,24 @@
+{
+  "kind" : "ultravaporizershot",
+  "location" : "mouth",
+  "definition" : {
+    "duration" : 0.1,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "ultravaporizershot" ], [ "ultravaporizershot" ], [ "ultravaporizershot" ], [ "ultravaporizershot" ]
+      ],
+      "sounds" : [ [ ] ]
+    },
+    "particles" : [
+      [ "ultravaporizershot" ], [ "ultravaporizershot" ], [ "ultravaporizershot" ], [ "ultravaporizershot" ]
+    ],
+    "sounds" : [ [ ] ],
+    "stop" : {
+      "particles" : [
+        [ "ultravaporizershot" ], [ "ultravaporizershot" ], [ "ultravaporizershot" ], [ "ultravaporizershot" ]
+      ],
+      "sounds" : [ [ ] ]
+    }
+  }
+}

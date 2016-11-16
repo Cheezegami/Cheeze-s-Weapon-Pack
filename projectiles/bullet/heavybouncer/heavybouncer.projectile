@@ -1,0 +1,71 @@
+{
+  "projectileName" : "heavybouncer",
+  "frames" : "heavybouncer.png",
+  "physics" : "bouncer",
+  "damageKindImage" : "icon.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "power" : 20,
+  "piercing" : false,
+  "speed" : 5,
+  "timeToLive" : 1,
+  "bounces" : 4,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/regularexplosion/regularexplosion.config",
+      "inheritDamageFactor" : 0.25
+    },
+    {
+      "action" : "projectile",
+      "type" : "bigexplosion",
+      "fuzzAngle" : 10,
+      "inheritDamageFactor" : 0.15,
+      "angleAdjust" : 35
+    },
+    {
+      "action" : "projectile",
+      "type" : "normalbouncer",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.35,
+      "angleAdjust" : 35
+    },
+    {
+      "action" : "projectile",
+      "type" : "normalbouncer",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.35,
+      "angleAdjust" : 35
+    },
+    {
+      "action" : "projectile",
+      "type" : "normalbouncer",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.35,
+      "angleAdjust" : 35
+    },
+    {
+      "action" : "projectile",
+      "type" : "normalbouncer",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.35,
+      "angleAdjust" : 35
+    },
+    {
+      "action" : "projectile",
+      "type" : "normalbouncer",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.35,
+      "angleAdjust" : 35
+    },
+    {
+      "action" : "projectile",
+      "type" : "normalbouncer",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.35,
+      "angleAdjust" : 35
+    }
+  ],
+  "damageType" : "NoDamage",
+  "damageKind" : "default"
+}

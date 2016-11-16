@@ -1,0 +1,55 @@
+{
+  "projectileName" : "crystalburst2",
+  "physics" : "bullet",
+  "bounces" : 0.5,
+  "speed" : 6,
+  "timeToLive" : 0.25,
+  "damageKindImage" : "iconicom.png",
+  "frames" : "crystalburst2.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 1,
+  "actionOnReap" : [
+    {
+      "action" : "sound",
+      "options" : [ "/sfx/melee/sword_parry.wav" ]
+    },
+    {
+      "action" : "projectile",
+      "type" : "crystalslide2",
+      "fuzzAngle" : 30,
+      "inheritDamageFactor" : 0.5,
+      "angleAdjust" : -10
+    },
+    {
+      "action" : "projectile",
+      "type" : "crystalslide2",
+      "fuzzAngle" : 30,
+      "inheritDamageFactor" : 0.5,
+      "angleAdjust" : 10
+    },
+    {
+      "action" : "projectile",
+      "type" : "crystalslide2",
+      "fuzzAngle" : 30,
+      "inheritDamageFactor" : 0.5,
+      "angleAdjust" : 10
+    },
+	{
+      "action" : "projectile",
+      "type" : "crystalslide",
+      "fuzzAngle" : 30,
+      "inheritDamageFactor" : 0.5,
+      "angleAdjust" : 10
+    },
+    {
+      "action" : "projectile",
+      "type" : "crystalslide",
+      "fuzzAngle" : 30,
+      "inheritDamageFactor" : 0.5,
+      "angleAdjust" : 10
+    }
+
+  ],
+  "power" : 6.3,
+  "damageKind" : "default"
+}

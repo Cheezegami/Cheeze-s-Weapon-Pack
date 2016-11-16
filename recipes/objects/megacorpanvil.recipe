@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "goldbar", "count" : 5 }
+  ],
+  "output" : { "item" : "megacorpanvil", "count" : 1 },
+  "groups" : [ "anvil", "objects", "all", "mod" ]
+}
